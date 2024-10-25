@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://Avyaaz18.github.io/Test"
 title = "Torque | IIT Hyderabad"
-theme = "congo"
+# theme = "congo"
 
 paginate = 5
 # pagination.pagerSize = 2
