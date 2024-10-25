@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://Avyaaz18.github.io/Test/"
+baseURL = "https://examplesite.com"
 title = "Torque | IIT Hyderabad"
 theme = "congo"
 

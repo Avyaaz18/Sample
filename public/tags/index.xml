@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Torque | IIT Hyderabad</title>
-    <link>https://Avyaaz18.github.io/Test/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Torque | IIT Hyderabad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Avyaaz18.github.io/Test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aerodynamics</title>
-      <link>https://Avyaaz18.github.io/Test/tags/aerodynamics/</link>
+      <link>http://localhost:1313/tags/aerodynamics/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/aerodynamics/</guid>
+      <guid>http://localhost:1313/tags/aerodynamics/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://Avyaaz18.github.io/Test/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Autonomous Driving</title>
-      <link>https://Avyaaz18.github.io/Test/tags/autonomous-driving/</link>
+      <link>http://localhost:1313/tags/autonomous-driving/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/autonomous-driving/</guid>
+      <guid>http://localhost:1313/tags/autonomous-driving/</guid>
       <description></description>
     </item>
     <item>
       <title>CFD</title>
-      <link>https://Avyaaz18.github.io/Test/tags/cfd/</link>
+      <link>http://localhost:1313/tags/cfd/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/cfd/</guid>
+      <guid>http://localhost:1313/tags/cfd/</guid>
       <description></description>
     </item>
     <item>
       <title>Eco-Friendly</title>
-      <link>https://Avyaaz18.github.io/Test/tags/eco-friendly/</link>
+      <link>http://localhost:1313/tags/eco-friendly/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/eco-friendly/</guid>
+      <guid>http://localhost:1313/tags/eco-friendly/</guid>
       <description></description>
     </item>
     <item>
       <title>Electric Vehicle</title>
-      <link>https://Avyaaz18.github.io/Test/tags/electric-vehicle/</link>
+      <link>http://localhost:1313/tags/electric-vehicle/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/electric-vehicle/</guid>
+      <guid>http://localhost:1313/tags/electric-vehicle/</guid>
       <description></description>
     </item>
     <item>
       <title>Ergonomics</title>
-      <link>https://Avyaaz18.github.io/Test/tags/ergonomics/</link>
+      <link>http://localhost:1313/tags/ergonomics/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/ergonomics/</guid>
+      <guid>http://localhost:1313/tags/ergonomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Interior Design</title>
-      <link>https://Avyaaz18.github.io/Test/tags/interior-design/</link>
+      <link>http://localhost:1313/tags/interior-design/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/interior-design/</guid>
+      <guid>http://localhost:1313/tags/interior-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Materials Research</title>
-      <link>https://Avyaaz18.github.io/Test/tags/materials-research/</link>
+      <link>http://localhost:1313/tags/materials-research/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/materials-research/</guid>
+      <guid>http://localhost:1313/tags/materials-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Prototyping</title>
-      <link>https://Avyaaz18.github.io/Test/tags/prototyping/</link>
+      <link>http://localhost:1313/tags/prototyping/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/prototyping/</guid>
+      <guid>http://localhost:1313/tags/prototyping/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainability</title>
-      <link>https://Avyaaz18.github.io/Test/tags/sustainability/</link>
+      <link>http://localhost:1313/tags/sustainability/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/sustainability/</guid>
+      <guid>http://localhost:1313/tags/sustainability/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable Design</title>
-      <link>https://Avyaaz18.github.io/Test/tags/sustainable-design/</link>
+      <link>http://localhost:1313/tags/sustainable-design/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/sustainable-design/</guid>
+      <guid>http://localhost:1313/tags/sustainable-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Urban Transport</title>
-      <link>https://Avyaaz18.github.io/Test/tags/urban-transport/</link>
+      <link>http://localhost:1313/tags/urban-transport/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/urban-transport/</guid>
+      <guid>http://localhost:1313/tags/urban-transport/</guid>
       <description></description>
     </item>
     <item>
       <title>Vehicle Aesthetics</title>
-      <link>https://Avyaaz18.github.io/Test/tags/vehicle-aesthetics/</link>
+      <link>http://localhost:1313/tags/vehicle-aesthetics/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/vehicle-aesthetics/</guid>
+      <guid>http://localhost:1313/tags/vehicle-aesthetics/</guid>
       <description></description>
     </item>
     <item>
       <title>Vehicle Design</title>
-      <link>https://Avyaaz18.github.io/Test/tags/vehicle-design/</link>
+      <link>http://localhost:1313/tags/vehicle-design/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/vehicle-design/</guid>
+      <guid>http://localhost:1313/tags/vehicle-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Vehicle Safety</title>
-      <link>https://Avyaaz18.github.io/Test/tags/vehicle-safety/</link>
+      <link>http://localhost:1313/tags/vehicle-safety/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/vehicle-safety/</guid>
+      <guid>http://localhost:1313/tags/vehicle-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>https://Avyaaz18.github.io/Test/tags/workshops/</link>
+      <link>http://localhost:1313/tags/workshops/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/tags/workshops/</guid>
+      <guid>http://localhost:1313/tags/workshops/</guid>
       <description></description>
     </item>
   </channel>

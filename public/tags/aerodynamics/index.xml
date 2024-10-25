@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aerodynamics on Torque | IIT Hyderabad</title>
-    <link>https://Avyaaz18.github.io/Test/tags/aerodynamics/</link>
+    <link>http://localhost:1313/tags/aerodynamics/</link>
     <description>Recent content in Aerodynamics on Torque | IIT Hyderabad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Avyaaz18.github.io/Test/tags/aerodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aerodynamics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vehicle Aerodynamics and CFD Analysis</title>
-      <link>https://Avyaaz18.github.io/Test/projects/project-4/</link>
+      <link>http://localhost:1313/projects/project-4/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://Avyaaz18.github.io/Test/projects/project-4/</guid>
+      <guid>http://localhost:1313/projects/project-4/</guid>
       <description>&lt;p&gt;This project focuses on improving vehicle aerodynamics through computational fluid dynamics (CFD) analysis. The goal is to reduce air resistance and improve fuel efficiency or battery life for electric vehicles.&lt;/p&gt;</description>
     </item>
   </channel>
