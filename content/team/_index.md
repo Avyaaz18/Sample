@@ -94,4 +94,4 @@ teamMembers:
     instagram: "https://instagram.com/"
 
 ---
-Meet our amazing team of professionals.
+
