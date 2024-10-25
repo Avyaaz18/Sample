@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vehicle Design on Torque | IIT Hyderabad</title>
-    <link>http://localhost:1313/Test/tags/vehicle-design/</link>
+    <link>https://Avyaaz18.github.io/Test/tags/vehicle-design/</link>
     <description>Recent content in Vehicle Design on Torque | IIT Hyderabad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Test/tags/vehicle-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Avyaaz18.github.io/Test/tags/vehicle-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automobile Design and Prototyping Workshop</title>
-      <link>http://localhost:1313/Test/projects/project-6/</link>
+      <link>https://Avyaaz18.github.io/Test/projects/project-6/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Test/projects/project-6/</guid>
+      <guid>https://Avyaaz18.github.io/Test/projects/project-6/</guid>
       <description>&lt;p&gt;This hands-on workshop allows participants to design and prototype scale models of innovative vehicle designs. The project encourages creativity in vehicle aesthetics and functionality, teaching essential skills in the prototyping process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vehicle Aerodynamics and CFD Analysis</title>
-      <link>http://localhost:1313/Test/projects/project-4/</link>
+      <link>https://Avyaaz18.github.io/Test/projects/project-4/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Test/projects/project-4/</guid>
+      <guid>https://Avyaaz18.github.io/Test/projects/project-4/</guid>
       <description>&lt;p&gt;This project focuses on improving vehicle aerodynamics through computational fluid dynamics (CFD) analysis. The goal is to reduce air resistance and improve fuel efficiency or battery life for electric vehicles.&lt;/p&gt;</description>
     </item>
   </channel>
