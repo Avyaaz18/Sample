@@ -22,15 +22,15 @@ projects:
   - title : "Electric Vehicle Design"
     image : "images/project_img.jpg"
     content : "This project focuses on the design and development of an electric vehicle (EV) aimed at urban transportation. "
-    project_url : "/projects/project-1"
+    project_url : "projects/project-1/"
     
   - title : "Autonomous Driving System"
     image : "images/project_img.jpg"
     content : "This project focuses on developing a semi-autonomous driving system that enhances safety and driving comfort."
-    project_url : "/projects/project-2"
+    project_url : "projects/project-2/"
     
   - title : "Interior and Ergonomic Design"
     image : "images/project_img.jpg"
     content : "This project explores the design of vehicle interiors, focusing on comfort, aesthetics, and usability."
-    project_url : "/projects/project-3"
+    project_url : "projects/project-3/"
 

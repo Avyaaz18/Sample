@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vehicle Aesthetics on Torque | IIT Hyderabad</title>
-    <link>http://localhost:1313/tags/vehicle-aesthetics/</link>
+    <link>https://Avyaaz18.github.io/wEB/tags/vehicle-aesthetics/</link>
     <description>Recent content in Vehicle Aesthetics on Torque | IIT Hyderabad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vehicle-aesthetics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Avyaaz18.github.io/wEB/tags/vehicle-aesthetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interior and Ergonomic Design</title>
-      <link>http://localhost:1313/projects/project-3/</link>
+      <link>https://Avyaaz18.github.io/wEB/projects/project-3/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project-3/</guid>
+      <guid>https://Avyaaz18.github.io/wEB/projects/project-3/</guid>
       <description>&lt;p&gt;This project explores the design of vehicle interiors, focusing on comfort, aesthetics, and usability. The aim is to provide an ergonomic, user-friendly experience for both the driver and passengers.&lt;/p&gt;</description>
     </item>
   </channel>

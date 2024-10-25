@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Torque | IIT Hyderabad</title>
-    <link>http://localhost:1313/blogs/</link>
+    <link>https://Avyaaz18.github.io/wEB/blogs/</link>
     <description>Recent content in Blogs on Torque | IIT Hyderabad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Avyaaz18.github.io/wEB/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence in Vehicle Design: Enhancing Safety and Efficiency</title>
-      <link>http://localhost:1313/blogs/post-2/</link>
+      <link>https://Avyaaz18.github.io/wEB/blogs/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/blogs/post-2/</guid>
+      <guid>https://Avyaaz18.github.io/wEB/blogs/post-2/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&lt;/p&gt;</description>
     </item>
     <item>
       <title>Electric Vehicles and Battery Technology: Design Innovations for Sustainability</title>
-      <link>http://localhost:1313/blogs/post-3/</link>
+      <link>https://Avyaaz18.github.io/wEB/blogs/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/blogs/post-3/</guid>
+      <guid>https://Avyaaz18.github.io/wEB/blogs/post-3/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Autonomous Driving Technologies Are Shaping the Future of Design</title>
-      <link>http://localhost:1313/blogs/post-1/</link>
+      <link>https://Avyaaz18.github.io/wEB/blogs/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/blogs/post-1/</guid>
+      <guid>https://Avyaaz18.github.io/wEB/blogs/post-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Impact of Augmented Reality on Automotive Design Processes</title>
-      <link>http://localhost:1313/blogs/post-4/</link>
+      <link>https://Avyaaz18.github.io/wEB/blogs/post-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/blogs/post-4/</guid>
+      <guid>https://Avyaaz18.github.io/wEB/blogs/post-4/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&lt;/p&gt;</description>
     </item>
   </channel>
