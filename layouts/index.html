@@ -63,7 +63,7 @@
           <h2><span class="rev">{{ .title | markdownify }}</span>
           </h2>
           <p>{{ .content | markdownify }}</p>
-          <a href="/projects" class="btn btn-outline-primary mt-4">View All Projects</a>
+          <a href="{{ "/projects" | absURL }}" class="btn btn-outline-primary mt-4">View All Projects</a>
         </div>
       </div>
     </div>
